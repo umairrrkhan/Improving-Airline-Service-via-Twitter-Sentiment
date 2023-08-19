@@ -8,6 +8,10 @@ Customer satisfaction and service quality are critical for success in the airlin
 
 The tweet dataset contains 30,000 tweets related to major US airlines. It includes text data and sentiment labels (positive, negative, neutral). The data is split 80/20 into training and test sets.
 
+## Dataset
+
+The "tweet.csv" dataset is a crucial component of this project, providing the raw data necessary for sentiment analysis of tweets related to major US airlines. This dataset serves as the foundation upon which the entire project is built. Here's an overview of its key attributes
+
 ## Methods
 
 We use neural networks and deep learning approaches for text classification. The steps include:
